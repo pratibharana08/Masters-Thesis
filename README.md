@@ -12,4 +12,8 @@ READING LIST:
 BLOGS:
 1. [MIT alumni blog](https://open.mit.edu/c/maca)
 2. [Mckinsy](https://www.mckinsey.com/featured-insights/climate-change)
+3. [IMF](https://www.imf.org/en/News/Articles/2021/04/15/sp041521-securing-a-green-recovery?utm_medium=email&utm_source=govdelivery#_edn1)
+4. [Economic and social effects](https://www.iberdrola.com/environment/impacts-of-climate-change)
+5. [BBC](https://www.bbc.com/news/science-environment-55498657)
+6. [electric grid](https://www.ucsusa.org/resources/how-energy-storage-works)
 
