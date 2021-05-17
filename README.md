@@ -16,4 +16,5 @@ BLOGS:
 4. [Economic and social effects](https://www.iberdrola.com/environment/impacts-of-climate-change)
 5. [BBC](https://www.bbc.com/news/science-environment-55498657)
 6. [electric grid](https://www.ucsusa.org/resources/how-energy-storage-works)
+7. [CO₂ and Greenhouse Gas Emissions](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions)
 
